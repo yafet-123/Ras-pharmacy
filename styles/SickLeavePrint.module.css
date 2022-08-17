@@ -1,0 +1,10 @@
+@page {
+    /* dimensions for the whole page */
+    size: A5;
+    
+    margin: 0;
+}
+
+.Print{
+    background-color: white;
+}
